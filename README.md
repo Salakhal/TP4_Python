@@ -18,6 +18,9 @@ Meuh !
 Bip bop !
 Ouaf !
 ```
+##  Exemple d’exécution (image)
+ 
+Voici un exemple de l'exécution du programme (screenshot) :
 
 <img width="186" height="163" alt="image" src="https://github.com/user-attachments/assets/178331c5-0372-4a17-b23b-12c37b743597" />
 
@@ -42,6 +45,9 @@ Triangle – aire : 6.00 – Couleur : bleu
 Carre – aire : 16.00 – Couleur : jaune
 Tous les tests unitaires sont passés !
 ```
+##  Exemple d’exécution (image)
+ 
+Voici un exemple de l'exécution du programme (screenshot) :
 
 <img width="580" height="164" alt="image" src="https://github.com/user-attachments/assets/80b2809f-e9f7-4919-b755-e6a8ae13f3de" />
 
@@ -65,6 +71,9 @@ Paiement de 150.00€ effectué en crypto BTC (Wallet wallet123)
 Paiement de 300.00€ effectué en crypto ETH (Wallet wallet456)
 
 ```
+##  Exemple d’exécution (image)
+ 
+Voici un exemple de l'exécution du programme (screenshot) :
 
 <img width="838" height="198" alt="image" src="https://github.com/user-attachments/assets/70afe12c-a2f3-4438-a923-52610a060dcc" />
 
